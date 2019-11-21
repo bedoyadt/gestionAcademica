@@ -1,5 +1,5 @@
 # gestionAcademica
-![Sin títudsflo](https://user-images.githubusercontent.com/54035729/69380708-0ad0ec00-0c81-11ea-99f2-fc7474b8b17c.png)
+
 
 
 ![Sin títul7o](https://user-images.githubusercontent.com/54035729/69380575-bb8abb80-0c80-11ea-9d64-be25307b9e7e.png)
