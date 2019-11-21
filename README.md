@@ -1,4 +1,5 @@
 # gestionAcademica
+![Sin títul7o](https://user-images.githubusercontent.com/54035729/69380307-1ff94b00-0c80-11ea-9caf-545b3a901973.png)
 
 ![Sin títulhko](https://user-images.githubusercontent.com/54035729/69379764-128f9100-0c7f-11ea-98c9-8feacae0f622.png)
 ![Uploading Sin títul7o.png…]()
